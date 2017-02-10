@@ -1,0 +1,48 @@
+
+body {
+    margin: 0px;
+}
+
+
+
+.topBox {
+  background-color: hsla(191, 0%, 23%, 1);
+  height: 20%;
+}
+
+.leftBox {
+  background-color: hsla(191, 0%, 68%, 1);
+  height: 80%;
+  width: 10%;
+  float: left;
+}
+
+.middleBox {
+  background-color: purple;
+  height: 80%;
+  width: 80%;
+  float: left;
+}
+
+.containedTop {
+  background-color: white;
+  height: 90%;
+  width: 100%;
+  float: left;
+
+}
+
+.containedBottom {
+  background-color: black;
+  height: 10%;
+  width: 100%;
+  float: left;
+
+}
+
+.rightBox {
+  background-color: hsla(191, 0%, 68%, 1);
+  height: 80%;
+  width: 10%;
+  float: left;
+}
